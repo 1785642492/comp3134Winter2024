@@ -1,0 +1,5 @@
+root@comp3134-winter-2024:~# traceroute georgebrown.ca
+traceroute to georgebrown.ca (99.79.139.11), 30 hops max, 60 byte packets
+ 1  162.243.190.9 (162.243.190.9)  1.124 ms  1.079 ms 162.243.190.8 (162.243.190.8)  1.050 ms
+ 2  143.198.252.192 (143.198.252.192)  1.223 ms 143.198.252.194 (143.198.252.194)  1.194 ms 143.198.252.198 (143.198.252.198)  0.848 ms
+ 3  amazon-a.ip4.torontointernetxchange.net (206.108.35.36)  1.139 ms  1.115 ms amazon-b.ip4.torontointernetxchange.net (206.108.35.37)  0.983 ms

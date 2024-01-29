@@ -1,0 +1,7 @@
+Tracking via up to 30 hops
+Route to georgebrown.ca [99.79.139.11]:
+
+  1    <1 ms   <1 ms   <1 ms 192.168.12.1
+  2     6 ms     7 ms     7 ms  10.1.5.254
+  3     3 ms     1 ms     1 ms  172.16.0.154
+  4     5 ms     2 ms     2 ms  135.0.199.146
